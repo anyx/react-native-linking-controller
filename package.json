@@ -1,6 +1,6 @@
 {
   "name": "react-native-linking-controller",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Manage actions that come from linking in React Native applications",
   "repository": "git@github.com:anyx/react-native-linking-controller.git",
   "author": "Aleksandr Klimenkov <alx.devel@gmail.com>",
